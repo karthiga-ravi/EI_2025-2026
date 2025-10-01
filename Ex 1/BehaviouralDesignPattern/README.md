@@ -1,4 +1,4 @@
-# Coffee Shop Ordering System ☕
+# ☕ Coffee Shop - Behavioural Design Pattern
 
 This project demonstrates the use of **Design Patterns in Java**, specifically the **Observer Pattern** and the **Command Pattern**, applied in a simple coffee shop ordering system.  
 
